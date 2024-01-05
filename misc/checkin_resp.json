@@ -1,0 +1,43 @@
+{
+    "message": "Rishabh Parashar checked in successfully.",
+    "user": {
+        "skills": [],
+        "_id": "63f4610675bdc1b64925f2f3",
+        "username": "Rishabh Parashar",
+        "email": "rishabh.parashar@applore.in",
+        "password": "$2b$10$D2yYokkX4lIVSrPfMPq.FuE2rGL3KTIQf7mA9dhsFKPb8T5AE8GKO",
+        "company": "635e53125076e20cc3cae888",
+        "role": "63d4b2ec353383c98a205572",
+        "checkedIn": true,
+        "supervisor": [
+            "635e56708eaedd54f49b2389",
+            "63eba534036d6a87404cb000",
+            "63da7d2f759be5abc1d4b94e",
+            "63bc04b2c1dbfbced755bab1",
+            "63f45f6775bdc1b64925ecdc",
+            "64759f647ea4583bf272f617",
+            "63d4b207353383c98a20556c",
+            "63f4608675bdc1b64925f1b9"
+        ],
+        "invitedUsers": [],
+        "createdAt": "2023-02-21T06:13:26.429Z",
+        "updatedAt": "2023-12-21T06:23:20.775Z",
+        "__v": 0,
+        "fcm_key": "fJ4rcK-LkDuS2Rbs8c0orZ:APA91bHf_MA6hJ__7qsfsWWTNBIrDczKsvkl2b-dj-TNBOjdfMp95hfuEO1nvI5WNosBb1RUpnVQkSBfvoGPZESCKqgrSbilp-qd39sGQI30SdTDrYFf-8RqIGxEhiK-5aKTWokXgImY",
+        "timesheetRequired": true,
+        "isOnline": false,
+        "socketId": "NONE",
+        "userType": "USER",
+        "deactivated": false
+    },
+    "data": {
+        "latitude": 28.6259792,
+        "longitude": 77.3532435,
+        "checkIn": "2023-12-21T11:53:20.774Z",
+        "user": "63f4610675bdc1b64925f2f3",
+        "_id": "6583d9d81217eef0782b4b68",
+        "createdAt": "2023-12-21T06:23:20.784Z",
+        "updatedAt": "2023-12-21T06:23:20.784Z",
+        "__v": 0
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "user": {
+        "skills": [],
+        "_id": "63f4610675bdc1b64925f2f3",
+        "username": "Rishabh Parashar",
+        "email": "rishabh.parashar@applore.in",
+        "password": "$2b$10$D2yYokkX4lIVSrPfMPq.FuE2rGL3KTIQf7mA9dhsFKPb8T5AE8GKO",
+        "company": {
+            "_id": "635e53125076e20cc3cae888",
+            "name": "Applore",
+            "verified": false,
+            "offices": [],
+            "services": "635e52f614c75ec4aec8657b",
+            "createdAt": "2022-10-30T10:33:54.691Z",
+            "updatedAt": "2023-09-08T12:01:46.849Z",
+            "__v": 0,
+            "adminToken": "U2FsdGVkX19Nbf3qH6mOtFoIfzrSIKWCS/cnk/EoYsUu8ORzX9QWQcsXSO8luZqy17wQ8MlQNz3Eg8gmY3K9A9Rhxmi7F54t63r/RWTznuCUaFsrUjNrhRTg6BQOVJa4DOBQAZNll3IOwLDlthwIQBvvTRgbLjn9oufRZrotZ1Z6wUzA1yMC0wsECc2rJuV81eQ2lyZb/XIPa/P88JeOdpb4qaAAejjE0x19Y2BFXBZetBVFe7c9f709jTZ9sfcmJWGZE14MpKP1sdoIm4fM4LeaquwVNxfWF299ONiQ/OIrkby03l7mfcs5JExZChj5QANeijfrUUjrbCJgriNsyQ==",
+            "slackTeamId": "T01BD53P12A",
+            "clickup_clientId": "OCWYEJ0W652W3FKWOJ7J8ILNT72EWITU",
+            "clickup_client_secret": "U3LOF5H3GJPZNIXKAW84ID1STGSRM34Z58D33345BQKVPY5MCQRWRG4QDRK3XXHC",
+            "members": []
+        },
+        "role": {
+            "_id": "63d4b2ec353383c98a205572",
+            "name": "Development Team",
+            "company": "635e53125076e20cc3cae888",
+            "allowed_permissions": [
+                "635e45f233960a10731ec7b7",
+                "635e462fa9a4dc39f15e9289",
+                "635e45c533960a10731ec7b4",
+                "6400562f1092676c0f644c60",
+                "640055fc1092676c0f644c5a"
+            ],
+            "attributes": [],
+            "createdAt": "2023-01-28T05:30:20.946Z",
+            "updatedAt": "2023-09-27T09:56:23.244Z",
+            "__v": 0,
+            "leavesAllocated": [
+                {
+                    "leaveType": "640057f899b9e51b0bca6c31",
+                    "leaveName": "Sick",
+                    "totalAllocated": 7,
+                    "_id": "6513fc3e87c78127b0d1a2d3"
+                },
+                {
+                    "leaveType": "6400587fa1582fd12ac3a7b9",
+                    "leaveName": "Casual",
+                    "totalAllocated": 7,
+                    "_id": "6513fc4787c78127b0d1a38b"
+                }
+            ]
+        },
+        "checkedIn": false,
+        "supervisor": [
+            "635e56708eaedd54f49b2389",
+            "63eba534036d6a87404cb000",
+            "63da7d2f759be5abc1d4b94e",
+            "63bc04b2c1dbfbced755bab1",
+            "63f45f6775bdc1b64925ecdc",
+            "64759f647ea4583bf272f617",
+            "63d4b207353383c98a20556c",
+            "63f4608675bdc1b64925f1b9"
+        ],
+        "invitedUsers": [],
+        "createdAt": "2023-02-21T06:13:26.429Z",
+        "updatedAt": "2023-12-20T18:30:00.074Z",
+        "__v": 0,
+        "fcm_key": "fJ4rcK-LkDuS2Rbs8c0orZ:APA91bHf_MA6hJ__7qsfsWWTNBIrDczKsvkl2b-dj-TNBOjdfMp95hfuEO1nvI5WNosBb1RUpnVQkSBfvoGPZESCKqgrSbilp-qd39sGQI30SdTDrYFf-8RqIGxEhiK-5aKTWokXgImY",
+        "timesheetRequired": true,
+        "isOnline": false,
+        "socketId": "NONE",
+        "userType": "USER",
+        "deactivated": false
+    },
+    "message": "Welcome Back Rishabh Parashar",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2M2Y0NjEwNjc1YmRjMWI2NDkyNWYyZjMiLCJjb21wYW55SWQiOiI2MzVlNTMxMjUwNzZlMjBjYzNjYWU4ODgiLCJpYXQiOjE3MDMxMzk3NDIsImV4cCI6MTcwNDAwMzc0Mn0._XyvNYRGX4-iZ-tFzLEnlIOsE0vbSk6GFsOEGbwE-5A",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2M2Y0NjEwNjc1YmRjMWI2NDkyNWYyZjMiLCJpYXQiOjE3MDMxMzk3NDIsImV4cCI6MTczNDY3NTc0Mn0.KtVZDYWhxHe7SZNLvflEuhzAXTqXxUpgyAflz821Rdc"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "My Sheets Extension",
+  "version": "0.1.0",
+  "description": "Extension to update sheet",
+  "permissions": ["storage", "tabs", "activeTab", "background"],
+  "host_permissions": ["https://seppi.atlassian.net/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://seppi.atlassian.net/*"],
+      "js": ["DRAGON_SCRIPT.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "assets/bookmark.png",
+        "assets/play.png",
+        "assets/delete.png",
+        "assets/save.png"
+      ],
+      "matches": ["https://seppi.atlassian.net/*"]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "assets/ext-icon.png",
+      "24": "assets/ext-icon.png",
+      "32": "assets/ext-icon.png"
+    },
+    "default_title": "Sheets Extension",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 3
+}
